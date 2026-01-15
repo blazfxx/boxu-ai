@@ -7,28 +7,28 @@ This is a free app, built with **free** in mind. It is supposed to be a personal
 
 # What can it do currently?
 
-BOXU can currently
-	•	compose emails
-	•	open apps
-	•	suggest actions to items you copy
-	•	talk-to-action
-	•	tell you the weather
-	•	play music
-	•	know your device info
-	•	extract PDF content
-	•	summarize key points in PDFs
-	•	remembers important things
-	•	folder cleaner
-	•	image support
-	•	image converting
+- BOXU can currently
+- compose emails
+- open apps
+- suggest actions to items you copy
+- talk-to-action
+- tell you the weather
+- play music
+- know your device info
+- extract PDF content
+- summarize key points in PDFs
+- remembers important things
+- folder cleaner
+- image support
+- image converting
 
 BOXU is planned to:
-	•	Help you with terminal errors
-	•	Be screen aware
-	•	Use mouse/keyboard to interact with your device
-	•	Have a mobile app to be able to perform actions to your device from ANYWHERE
-	•	Smarter
-	•	Code
+- Help you with terminal errors
+- Be screen aware
+- Use mouse/keyboard to interact with your device
+- Have a mobile app to be able to perform actions to your device from ANYWHERE
+- Smarter
+- Code
 
 # Pricing?
 
