@@ -1,39 +1,38 @@
 # BOXU
 Get the BOXU downloads [here](https://github.com/blazfxx/boxu-ai/releases)!
 
-
 # What is this app?
 
-This is a free app, built with free in mind. It is supposed to be a personal assiatnt that can perform tasks for users and such.
+This is a free app, built with **free** in mind. It is supposed to be a personal assistant that can perform tasks for users and such.
 
 # What can it do currently?
 
 BOXU can currently
-- compose emials
-- open apps
-- suggest actions to items you copy
-- talk-to-action
-- tell you the weather
-- play music
-- know your device info
-- extract pdf content
-- summarize key points in pdfs
-- remembers important things
-- folder cleaner
-- image support
-- image converting
+	•	compose emails
+	•	open apps
+	•	suggest actions to items you copy
+	•	talk-to-action
+	•	tell you the weather
+	•	play music
+	•	know your device info
+	•	extract PDF content
+	•	summarize key points in PDFs
+	•	remembers important things
+	•	folder cleaner
+	•	image support
+	•	image converting
 
 BOXU is planned to:
-- Help you with terminal errors
-- Be screen aware
-- Use mouse/keyboard to interact with your device
-- Have a mobile app to be able to perform actions to your device from ANYWHERE
-- Smarter
-- Code
+	•	Help you with terminal errors
+	•	Be screen aware
+	•	Use mouse/keyboard to interact with your device
+	•	Have a mobile app to be able to perform actions to your device from ANYWHERE
+	•	Smarter
+	•	Code
 
 # Pricing?
 
-Everything is free for you to use, with no necessity to pay. The APIs being used all have free tiers, and you have an option to use local models, so don't worry!
+Everything is free for you to use, with no necessity to pay. The APIs being used all have free tiers, and you have an option to use local models, so don’t worry!
 
 # IMAGES
 
