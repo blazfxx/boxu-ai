@@ -5,6 +5,13 @@ Get the BOXU downloads [here](https://github.com/blazfxx/boxu-ai/releases)!
 
 This is a free app, built with **free** in mind. It is supposed to be a personal assistant that can perform tasks for users and such.
 
+# How does it work?
+
+It accepts APIs from GROK, OpenRouter, OpenAI, and local models from OLLAMA.
+
+Using the Grok API is more than enough for simple tasks, and we use OpenRouter for VL. For local models, you should use a model (or 2) that can support text and VL, and is smart for instructions.
+
+
 # What can it do currently?
 
 - BOXU can currently
