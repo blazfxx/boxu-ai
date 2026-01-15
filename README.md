@@ -1,5 +1,5 @@
 # BOXU
-Get the BOXU downloads here!
+Get the BOXU downloads [here](https://github.com/blazfxx/boxu-ai/releases)!
 
 
 # What is this app?
