@@ -37,6 +37,13 @@ BOXU is planned to:
 - Smarter
 - Code
 
+Thanks to [coloradical5280](https://www.reddit.com/user/coloradical5280/) on Reddit, I ofund out about the problems LLMs and such can pose. To fix this issue, the AI is planned to include:
+- APIs to check for the safety of links before clicking, and the trutibility of downloads
+- Making the AI have ZERO possibilities to accidently cause deep damage to files, by putting the rm to blacklist
+- Addind safegurds to avaoid the AI from being able to be edited directly through the chat interface using bugs
+
+
+
 # Pricing?
 
 Everything is free for you to use, with no necessity to pay. The APIs being used all have free tiers, and you have an option to use local models, so don’t worry!
